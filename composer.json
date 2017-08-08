@@ -1,5 +1,6 @@
 {
     "name": "aaa/student1",
+    "type" :"project",
     "authors": [
         {
             "name": "安雪飞",
